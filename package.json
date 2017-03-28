@@ -1,0 +1,14 @@
+{
+  "name": "tanswell-site",
+  "version": "0.0.1",
+  "description": "Paul Tanswell website",
+  "author": "Paul Tanswell <paul@tanswell.se>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pault70/tanswell"
+  },
+  "dependencies": {
+    "inuitcss": "^6.0.0-beta.4"
+  },
+  "license": "MIT"
+}
